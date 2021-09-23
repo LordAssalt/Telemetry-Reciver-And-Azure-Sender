@@ -49,7 +49,7 @@ dps-keygen -di:<DeviceID> -dk:<Primary Key> -si:<ScopeID>
 
 Ora. ottenuta la stringa, inseritela nello script Python sul raspberry e sarete pronti per inviare dati su Azure.
 
-Finally, you have to insert the sting in the Python script, and now you are ready to send data.
+Finally, you have to insert the string in the Python script, and now you are ready to send data.
 
 ## Contributing
 
